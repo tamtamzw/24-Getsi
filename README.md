@@ -122,9 +122,10 @@
 
   <section class="section" id="contact">
     <h2>Contact Us</h2>
-    <p>📞 Phone/WhatsApp: +234-XXX-XXX-XXXX</p>
-    <p>📧 Email: 24electrical@example.com</p>
-    <p>📍 Location: Your City, Your State</p>
+    <p>📞 Phone/WhatsApp: +263-78-610-0586</p>
+    <p>📧 Email: 24electrical@gmail.com</p>
+    <p>facebook: 24 Electrical 
+    <p>📍 Location: Harare, Zimbabwe</p>
   </section>
 
   <footer>
